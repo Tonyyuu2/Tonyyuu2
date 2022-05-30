@@ -1,4 +1,6 @@
-### Hey 👋 I'm Tony 😄
+# Hey 👋 I'm Tony 😄
+
+####
 
 - 🔭 I’m currently working on sharpening my JavaScript and React knowledge.
 - 🌱 I’m currently learning how to work with and understand JavaScript and React concepts. 
